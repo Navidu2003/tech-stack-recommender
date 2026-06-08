@@ -1,0 +1,14 @@
+# Tech Stack Recommender — Dependencies
+# ======================================
+# Zero external dependencies!
+# This project uses ONLY Python standard library modules:
+#   - csv       (reading the dataset)
+#   - math      (TF-IDF and Cosine Similarity calculations)
+#   - os        (file path handling)
+#   - sys       (command-line argument handling)
+#   - argparse  (CLI argument parsing)
+#   - unittest  (running the test suite)
+#   - dataclasses (clean data models)
+#
+# Python 3.8+ required
+# Install Python from: https://python.org
